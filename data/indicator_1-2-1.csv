@@ -1,7 +1,26 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,"CA","ODS","Indicador","DescripciÃ³n","Value"
+2010,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"28.3"
+2011,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"30.7"
+2012,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"28.3"
+2013,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"29.1"
+2014,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"33.3"
+2015,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"35.7"
+2016,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,"35.4"
+2017,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,31
+2018,"ANDALUCÃA","Fin de la pobreza","1.2.1.1",,32
+2010,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"14.2"
+2011,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"15.5"
+2012,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"14.5"
+2013,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"16.1"
+2014,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"16.9"
+2015,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"14.4"
+2016,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"15.7"
+2017,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"13.3"
+2018,"ARAGÃ“N","Fin de la pobreza","1.2.1.1",,"14.2"
+2010,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"11.5"
+2011,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"14.1"
+2012,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,13
+2013,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"14.1"
+2014,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"16.7"
+2015,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"16.7"
+2016,"ASTURIAS, PRINCIPADO DE","Fin de la pobreza","1.2.1.1",,"13.4"
