@@ -1,4 +1,4 @@
-Year,CA,ODS,Indicador,DescripciÃ³n,Value
+Year,CA,ODS,Indicador,Descripción,Value
 2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,14.4
 2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,14.0
 2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,14.2
@@ -8,3 +8,30 @@ Year,CA,ODS,Indicador,DescripciÃ³n,Value
 2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,18.2
 2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,16.9
 2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,,16.1
+2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,20.4
+2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.4
+2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.3
+2013,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.9
+2014,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,22.2
+2015,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.3
+2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,24.0
+2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,23.2
+2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,20.9
+2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,12.0978
+2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,12.6416
+2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,13.6729
+2013,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,13.5748
+2014,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,13.9707
+2015,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,14.2965
+2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,16.5358
+2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,16.6392
+2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,,15.4435
+2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,19.6413
+2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,17.2037
+2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,18.7624
+2013,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,19.9709
+2014,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,21.3391
+2015,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,20.2088
+2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,21.8246
+2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,21.0189
+2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,,19.3289
