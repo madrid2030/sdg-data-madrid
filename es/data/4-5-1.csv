@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,CA,ODS,Indicador,Descripción,Value
+2011,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.1,"Índices de paridad (entre mujeres y hombres) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",97.738406182
+2016,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.1,"Índices de paridad (entre mujeres y hombres) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",96.643336472
+2016,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.2,"Índices de paridad (personas con limitaciones graves por problemas de salud y personas nada limitadas) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",59.898110273
+2016,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.2,"Índices de paridad (personas con limitaciones por problemas de salud y personas nada limitadas) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",80.684111692
+2016,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.4,"Índices de paridad (entre cuartil de riqueza superior e inferior) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",46.48763171
+2016,"MADRID, COMUNIDAD DE",Educación de calidad,4.5.1.6,"Índices de paridad (personas con limitaciones por problemas de salud pero no graves y personas nada limitadas) de la población, entre 18 y 64 años de edad, que han realizado actividades educativas en los últimos 12 meses",84.941699176
