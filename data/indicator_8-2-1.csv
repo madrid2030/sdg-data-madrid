@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+"Year","CA","ODS","Indicador","Descripción","Value"
+2010,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","1.947095471"
+2011,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","2.125203432"
+2012,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","1.822090438"
+2013,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","-0.042833418"
+2014,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","-0.003866871"
+2015,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","0.480044342"
+2016,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","1.965336052"
+2017,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","1.294832985"
+2018,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1","Tasa de crecimiento anual de la productividad","0.290958592"
+2010,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","2.411896048"
+2011,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","2.319615352"
+2012,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","2.576610636"
+2013,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","0.534025878"
+2014,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","0.232461285"
+2015,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","0.407825998"
+2016,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","1.660655662"
+2017,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","1.72637407"
+2018,"MADRID, COMUNIDAD DE","Trabajo decente y crecimiento económico","8.2.1.1.b","Tasa de crecimiento anual de la productividad (horas=","-0.285804113"
