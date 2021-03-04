@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+"Year","CA","ODS","Indicador","Descripción","Value"
+2017,"MADRID, COMUNIDAD DE","Acción por el clima","13.2.1.1","Total de Emisiones de Gases Efecto Invernadero de las unidades residentes per capita","3.384041039"
+2018,"MADRID, COMUNIDAD DE","Acción por el clima","13.2.1.1","Total de Emisiones de Gases Efecto Invernadero de las unidades residentes per capita","3.383145472"
+2017,"MADRID, COMUNIDAD DE","Acción por el clima","13.2.1.2","Total de Emisiones de Gases Efecto Invernadero de las unidades residentes por PIB","0.100171542"
+2018,"MADRID, COMUNIDAD DE","Acción por el clima","13.2.1.2","Total de Emisiones de Gases Efecto Invernadero de las unidades residentes por PIB","0.098322431"

@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+"Year","CA","ODS","Indicador","Descripción","Value"
+2010,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","19.3"
+2011,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","18.6"
+2012,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","19.8"
+2013,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","20.1"
+2014,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","19.2"
+2015,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","20.5"
+2016,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","21.7"
+2017,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE","20.6"
+2018,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1","Población en riesgo de pobreza o exclusión social: indicador AROPE",19
+2010,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","24.3"
+2011,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","25.1"
+2012,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","25.5"
+2013,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","26.8"
+2014,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","25.3"
+2015,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","25.4"
+2016,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma",27
+2017,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma",26
+2018,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.1_1","Población en riesgo de pobreza o exclusión social: indicador AROPE, considerando la mediana de cada comunidad autónoma","23.6"
+2010,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","5.3"
+2011,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","2.7"
+2012,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","5.6"
+2013,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","7.3"
+2014,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","4.8"
+2015,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","5.7"
+2016,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","4.3"
+2017,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","5.4"
+2018,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.2","Población con carencia material severa","4.7"
+2010,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","5.6"
+2011,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","7.9"
+2012,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","8.2"
+2013,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","9.3"
+2014,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","9.6"
+2015,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","10.5"
+2016,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","10.4"
+2017,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","9.2"
+2018,"MADRID, COMUNIDAD DE","Fin de la pobreza","1.2.2.3","Población viviendo en hogares con baja intensidad de trabajo","6.5"

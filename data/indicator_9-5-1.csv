@@ -1,7 +1,10 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+"Year","CA","ODS","Indicador","Descripción","Value"
+2010,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.96"
+2011,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.9"
+2012,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.76"
+2013,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.78"
+2014,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.7"
+2015,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.7"
+2016,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.66"
+2017,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.67"
+2018,"MADRID, COMUNIDAD DE","Industria, tinnovación e infraestructura","9.5.1.1","Gastos en investigación y desarrollo en proporción al PIB","1.7"
