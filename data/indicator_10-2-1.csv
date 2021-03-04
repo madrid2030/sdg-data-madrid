@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+"Year","CA","ODS","Indicador","Descripción","Value"
+2010,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","8.5"
+2011,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","9.9"
+2012,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","9.8"
+2013,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","9.9"
+2014,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","10.7"
+2015,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos",12
+2016,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos",13
+2017,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos","13.1"
+2018,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos",11
+2010,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","15.3"
+2011,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","14.3"
+2012,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","15.4"
+2013,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma",15
+2014,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","15.4"
+2015,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","15.1"
+2016,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","18.4"
+2017,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","17.2"
+2018,"MADRID, COMUNIDAD DE","Reducción de las desigualdades","10.2.1.1_1","Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, cogiendo mediana de cada comunidad autónoma","14.2"
