@@ -1,6 +1,6 @@
 Year,CA,ODS,Indicador,Descripción,Value
 2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",14.4
-2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",14.0
+2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",14
 2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",14.2
 2013,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",13.4
 2014,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",14.7
@@ -8,15 +8,17 @@ Year,CA,ODS,Indicador,Descripción,Value
 2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",18.2
 2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",16.9
 2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",16.1
+2019,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza","15,0"
 2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,20.4
 2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.4
 2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.3
 2013,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.9
 2014,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,22.2
 2015,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.3
-2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,24.0
+2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,24
 2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,23.2
 2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,20.9
+2019,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.1_1,Población en riesgo de pobreza relativa (ingresos < 60% mediana). Mediana de cada comunidad autónoma,21.9
 2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",12.0978
 2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",12.6416
 2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",13.6729
@@ -26,6 +28,7 @@ Year,CA,ODS,Indicador,Descripción,Value
 2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",16.5358
 2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",16.6392
 2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",15.4435
+2019,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza","14,57"
 2010,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",19.6413
 2011,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",17.2037
 2012,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",18.7624
@@ -35,3 +38,4 @@ Year,CA,ODS,Indicador,Descripción,Value
 2016,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",21.8246
 2017,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",21.0189
 2018,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",19.3289
+2019,"MADRID, COMUNIDAD DE",Fin de la pobreza,1.2.1.2_1,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",20
